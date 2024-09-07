@@ -31,12 +31,15 @@ In the process of handling the data, data cleanning was performed by systematica
 ## key Metrics
    ### Correlation Matrix
       - Intercept 218,404.42
-      - The price of a property is most strongly influenced by the house size, number of bathrooms, and presence of a garage. The age of the house negatively impacts the price, while safety, the presence of a swimming pool, and lot size have a positive but less 
+      - The price of a property is most strongly influenced by the house size, number of bathrooms, and presence of a garage. The age of the house negatively
+        impacts the price, while safety, the presence of a swimming pool, and lot size have a positive but less 
         pronounced effect.
    ### Regression Statistics
-      - The regression model exhibits strong predictive power, with a high Multiple R (0.90), R Square (0.816), and Adjusted R Square ()0.812, indicating that it explains a significant portion of the variance in property prices.
-      - The standard error(27960.97), while providing a measure of the prediction error, should be evaluated in the context of the price range of the properties being studied. With 400 observations, the model is based on a solid dataset, further supporting its 
-        reliability. This suggests that the model developed for RealEstateBud using Excel's multiple linear regression capabilities is effective in predicting property values in Manila's dynamic real estate market.
+      - The regression model exhibits strong predictive power, with a high Multiple R (0.90), R Square (0.816), and Adjusted R Square ()0.812, indicating that 
+        it explains a significant portion of the variance in property prices.
+      - The standard error(27960.97), while providing a measure of the prediction error, should be evaluated in the context of the price range of the properties 
+        being studied. With 400 observations, the model is based on a solid dataset, further supporting its reliability. This suggests that the model developed 
+        for RealEstateBud using Excel's multiple linear regression capabilities is effective in predicting property values in Manila's dynamic real estate market.
    ### Regression Output
       - Significant predictors (p-value < 0.05): Bed, Acre_Lot, House_Size, Garage, Swimming_Pool, House_Age, Safety_Index.
       - Insignificant predictor (p-value > 0.05): Bath
