@@ -46,6 +46,7 @@ In the process of handling the data, data cleanning was performed by systematica
 
 ## Model Deployment
 The model was deployed using Streamlit.
+
 ![House Image](housing2.jpg)
 
 ## Conclusion
