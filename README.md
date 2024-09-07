@@ -32,7 +32,7 @@ In the process of handling the data, I engaged in compilation and cleansing acti
 
 ## Real Estate price Prediction Calculator
 
-!^
+![Predictor Image](image_10.jpg)
 
 ## key Metrics
 ### Correlation matrix
