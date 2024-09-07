@@ -1,6 +1,6 @@
 # Real Estate Price Prediction
 
-![House Image](image_10.jpg)
+![House Image](housing.jpg)
 
 
 ## Table of Contents
@@ -32,7 +32,7 @@ In the process of handling the data, I engaged in compilation and cleansing acti
 
 ## Real Estate price Prediction Calculator
 
-![Predictor Image](image_10.jpg)
+![Predictor Image](housing2.jpg)
 
 ## key Metrics
 ### Correlation matrix
