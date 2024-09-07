@@ -1,4 +1,4 @@
-# Real Estate Price Prediction
+# Real Estate Price Prediction with Multiple Linear Regression
 
 ![House Image](housing.jpg)
 
