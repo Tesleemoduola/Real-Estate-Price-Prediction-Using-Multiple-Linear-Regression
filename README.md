@@ -32,7 +32,7 @@ In the process of handling the data, I engaged in compilation and cleansing acti
 
 ## Real Estate price Prediction Calculator
 
-![Predictor Image](housing2.jpg)
+![Predictor Image](Predictor.jpg)
 
 ## key Metrics
 ### Correlation matrix
@@ -45,6 +45,9 @@ In the process of handling the data, I engaged in compilation and cleansing acti
 - Significant predictors (p-value < 0.05): Bed, Acre_Lot, House_Size, Garage, Swimming_Pool, House_Age, Safety_Index.
 - Insignificant predictor (p-value > 0.05): Bath
 - The coefficients indicate the direction and magnitude of the relationship between each independent variable and the dependent variable (price).
+
+## Model Deployment
+![House Image](housing2.jpg)
 
 ## Conclusion
 The model's predictors explain a significant portion of the variation in property prices, making it a useful tool for valuation in the dynamic real estate market of Manila.
